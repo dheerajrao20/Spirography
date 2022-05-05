@@ -113,13 +113,13 @@ cd Spirography
 
 <a href="https://www.youtube.com/watch?v=p-FxpnevlPI">Watch on YouTube</a>
 
-<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%208.png?raw=true" />
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_08/pro%208.png?raw=true" />
 
 <h2>Day 09</h2>
 
 <a href="https://www.youtube.com/watch?v=3-uEGZ4TSyY">Watch on YouTube</a>
 
-<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%209.png?raw=true" />
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_09/pro%209.png?raw=true" />
 
 <h2>Day 10</h2>
 
@@ -131,6 +131,6 @@ cd Spirography
 
 <a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
 
-<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%2011.png?raw=true" />
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_11/pro%2011.png?raw=true" />
 
 <h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
