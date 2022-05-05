@@ -11,8 +11,7 @@ Watch This on YouTube:
 <a href="https://www.youtube.com/playlist?list=PLxILZJcE8jLT8HnBSqeixt_9a5ELCVFTB" target="blank">https://www.youtube.com/playlist?list=PLxILZJcE8jLT8HnBSqeixt_9a5ELCVFTB</a> 
 <br>
 <h2 align="left"> Tech Stacks :</h2>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a><a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="css" width="50" height="60"/> </a>
-  </a></p>
+<p align="left"> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="css3" width="80" height="70"/> </a></p>
   <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCHUZS2VgprpnN1dtLqb6ABA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boy with codes" height="60" width="80" /></a> 
@@ -65,5 +64,12 @@ cd Spirography
 ```
 
 **4.** AND there is the project running in your browser.
+
+<h2 align="center"> Full Preview</a>
+
+<h2>Day 01</h2>
+
+<a href="https://www.youtube.com/watch?v=I7sSWSNG29Y&list=PLxILZJcE8jLT8HnBSqeixt_9a5ELCVFTB&index=1">Watch on YouTube</a>
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_01/pro%201.png?raw=true" />
 
 <h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
