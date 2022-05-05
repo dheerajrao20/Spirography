@@ -74,7 +74,50 @@ cd Spirography
 
 <h2>Day 02</h2>
 
-<a href="https://www.youtube.com/watch?v=I7sSWSNG29Y&list=PLxILZJcE8jLT8HnBSqeixt_9a5ELCVFTB&index=1">Watch on YouTube</a>
+<a href="https://www.youtube.com/watch?v=EgIbTswfIzg">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+<h2>Day 03</h2>
+
+<a href="https://www.youtube.com/watch?v=jy5SwPG6bvE">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+<h2>Day 04</h2>
+
+<a href="https://www.youtube.com/watch?v=Gd42yHzjMXk">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+<h2>Day 05</h2>
+
+<a href="https://www.youtube.com/watch?v=c3IZmjkwTes">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+<h2>Day 06</h2>
+
+<a href="https://www.youtube.com/watch?v=8OZVLhfw_Eg">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+<h2>Day 07</h2>
+
+<a href="https://www.youtube.com/watch?v=DHpbI84p-Pc">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+
+<h2>Day 08</h2>
+
+<a href="https://www.youtube.com/watch?v=p-FxpnevlPI">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
+<h2>Day 09</h2>
+
+<a href="https://www.youtube.com/watch?v=3-uEGZ4TSyY">Watch on YouTube</a>
 
 <img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
 
