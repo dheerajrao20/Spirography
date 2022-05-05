@@ -72,4 +72,10 @@ cd Spirography
 <a href="https://www.youtube.com/watch?v=I7sSWSNG29Y&list=PLxILZJcE8jLT8HnBSqeixt_9a5ELCVFTB&index=1">Watch on YouTube</a>
 <img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_01/pro%201.png?raw=true" />
 
+<h2>Day 02</h2>
+
+<a href="https://www.youtube.com/watch?v=I7sSWSNG29Y&list=PLxILZJcE8jLT8HnBSqeixt_9a5ELCVFTB&index=1">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_02/pro%202.png?raw=true" />
+
 <h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
