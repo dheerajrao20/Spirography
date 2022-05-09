@@ -133,4 +133,64 @@ cd Spirography
 
 <img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_11/pro%2011.png?raw=true" />
 
+<h2>Day 12</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_12/pro%2012.png?raw=true" />
+
+<h2>Day 13</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_13/pro%2013.png?raw=true" />
+
+<h2>Day 14</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_14/pro%2014.png?raw=true" />
+
+<h2>Day 15</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_15/pro%2015.png?raw=true" />
+
+<h2>Day 16</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_16/pro%2016.png?raw=true" />
+
+<h2>Day 17</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_17/pro%2017.png?raw=true" />
+
+<h2>Day 18</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_18/pro%2018.png?raw=true" />
+
+<h2>Day 19</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_19/pro%2019.png?raw=true" />
+
+<h2>Day 20</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_20/pro%2020.png?raw=true" />
+
+<h2>Day 21</h2>
+
+<a href="https://www.youtube.com/watch?v=vpimKTQtL9Q">Watch on YouTube</a>
+
+<img src="https://github.com/dheerajrao20/Spirography/blob/main/Spiral_21/pro%2021.png?raw=true" />
+
 <h1 align="center">🎉🎉 **_HAPPY CONTRIBUTING!_** 🎉🎉 </h1>
